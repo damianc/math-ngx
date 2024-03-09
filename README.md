@@ -16,7 +16,7 @@ List of methods:
 - `aver()` - arcus versin
 - `cvs()` - coversin
 - `acvs()` - arcus coversin
-- `vcs()` - vercosa
+- `vcs()` - vercos
 - `avcs()` - arcus vercos
 - `cvc()` - covercos
 - `acvc()` - arcus covercos
